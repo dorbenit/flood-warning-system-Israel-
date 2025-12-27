@@ -27,7 +27,7 @@ To address these, we developed a robust pipeline that prioritizes physical consi
 
 ### Option A: Google Colab (Recommended)
 The easiest way to run the notebook without local installation.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dorbenit/flood-warning-system-israel/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dorbenit/flood-warning-system-israel-/blob/main/notebook.ipynb)
 
 1.  Click the badge above to open the notebook.
 2.  **Important:** Since the raw data is not stored in this repository, you must upload the relevant basin CSV files (e.g., `il_48125.csv`) and attribute files to the Colab environment (drag & drop into the 'Files' sidebar).
